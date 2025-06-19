@@ -10,6 +10,6 @@ N = int(input())
 print(fact(N))
 
 ## Excution in terminal to see the result
-    # -  python solve1.py < 1.in > 1.out
-    # -  python solve1.py < 2.in > 2.out
-    # -  python solve1.py < 3.in > 3.out
+    # -  python solve2.py < 1.in > 1.out
+    # -  python solve2.py < 2.in > 2.out
+    # -  python solve2.py < 3.in > 3.out
